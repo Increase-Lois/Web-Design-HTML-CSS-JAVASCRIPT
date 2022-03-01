@@ -1,0 +1,148 @@
+*{
+    font-family: 'EB Garamond', serif;
+
+}
+
+.body{
+    margin-top: 0;
+    overflow-y: hidden;
+}
+.container{
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+.first-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0%;
+    /* background-color: rgb(116, 240, 136);  */
+}
+
+.box-1{
+    display: flex;
+}
+
+.box-1 img{
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+} 
+
+.box-2{
+    display: flex;
+}
+
+.box-2 h5 {
+    text-align: center;
+    padding-top: 5px;
+    font-size: small;
+    padding-right: 20px;
+    padding-left: 20px; 
+    font-weight: 400px;
+}
+
+.box-2 img{
+    display: flex;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 30px;
+} 
+
+.second-container{
+    margin-top: 5em;
+    text-align: center;
+}
+
+.details h2{
+    font-size: 40px;
+    margin-bottom: 0%;
+}
+
+.details h3{
+    font-weight: lighter;
+    font-size: 40px;
+    margin-top: 0%;
+}
+
+.third-container{
+    margin-top: 10em;
+    padding-top: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+
+.celo-sup{
+    margin-bottom: 3em;
+    font-size: x-large;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.celo-sub{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 12em;
+    padding-right:11em ;
+}
+
+.left-box h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.left-box p{
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+ 
+.left-box h5{
+    font-size: 20px;
+    color: seagreen;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.left-box h6{
+    font-size: 20px;
+    color: seagreen;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.text{
+    display: flex;
+    justify-content: space-between;
+} 
+
+.text-deets h4{
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+.text-deets h5{
+    font-size: 20px;
+    color: seagreen;
+} 
+
+.deet{
+    display: flex;
+    justify-content: space center;
+    margin: 0%;
+    padding: right 10px; ;
+}
+.deet h5{
+    margin: 0;
+    padding-right:10px ;
+}
+.deet img{
+    margin-top: 5px;
+} 
+
